@@ -5,6 +5,7 @@ import java.util.UUID;
 
 import com.cisc181.eNums.eMajor;
 
+
 public class Student extends Person {
 
 	private String eMajor;
