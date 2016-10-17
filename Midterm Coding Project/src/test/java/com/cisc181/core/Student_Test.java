@@ -13,9 +13,15 @@ public class Student_Test {
 	@BeforeClass
 	public static void setup() {
 	}
-
-	@Test
-	public void test() {
-		assertEquals(1, 1);
-	}
 }
+
+	//public ArrayList<Student> myStudent() {
+		//ArrayList<Student> st = new ArrayList<Student>();
+		//st.add("Bob","Joe","Jones",1995-12-18,"CHEM","20 Cisc Drive","(610) 361-9999","jones@udel.edu");
+		//return(st);
+	
+	
+ 
+
+
+
